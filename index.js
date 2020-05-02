@@ -1,5 +1,3 @@
-//import './node_modules/grapesjs/dist/css/grapes.min.css';
-//import grapesjs from './node_modules/grapesjs';
 
 (() => {
 const editor = grapesjs.init({
